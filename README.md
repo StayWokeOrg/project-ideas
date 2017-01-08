@@ -34,3 +34,5 @@ At my last job I wrote a tablet app for station checkers, the people who go arou
 ### Who's My Rep?
 
 A Twitter bot, where you tweet your zip code at it and it tweets back your Congressional representatives along with their phone numbers.
+
+- @nhuntwalker
