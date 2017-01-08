@@ -30,3 +30,7 @@ We're going to launch an issue-specific hotline for the nomination hearings this
 At my last job I wrote a tablet app for station checkers, the people who go around to train stations and collect info on the conditions there -- how much graffiti is there, how many clocks there are vs. how many are working, etc. I feel like something similar might be useful for keeping tabs on police patrols for instance.
 
 - @zspec
+
+### Who's My Rep?
+
+A Twitter bot, where you tweet your zip code at it and it tweets back your Congressional representatives along with their phone numbers.
