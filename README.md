@@ -31,7 +31,7 @@ Every month chose an organization in harmony with our mission and do a fund driv
 
 ### Branded set of Meetups
 
-Using Meetup, create a simple way for people to set up a monthly meetup and recruit folks in a particular city.  Have some guidelines for what they can work on or how the meetup would function.  Could be at times just a discussion group; could be seed of a protest group; many possibilities. 
+Using Meetup, create a simple way for people to set up a monthly meetup and recruit folks in a particular city.  Have some guidelines for what they can work on or how the meetup would function.  Could be at times just a discussion group; could be seed of a protest group; many possibilities.
 
 ### Database of Public Figures w/ ties to Policing & Prison industry
 
@@ -48,3 +48,9 @@ At my last job I wrote a tablet app for station checkers, the people who go arou
 A Twitter bot, where you tweet your zip code at it and it tweets back your Congressional representatives along with their phone numbers.
 
 - @nhuntwalker
+
+### Local town hall with members of Congress database
+
+There is no easy way that I know of to lookup when your reps are going to hold a local town hall; you have to be signed up for their email newsletter. If we could get people to submit dates when when find out a local town hall is happening we can then contact other people in that area. I know showing up to town halls was effective for the tea party. 
+
+- @meganrm
