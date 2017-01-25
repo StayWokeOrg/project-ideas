@@ -54,3 +54,9 @@ A Twitter bot, where you tweet your zip code at it and it tweets back your Congr
 There is no easy way that I know of to lookup when your reps are going to hold a local town hall; you have to be signed up for their email newsletter. If we could get people to submit dates when when find out a local town hall is happening we can then contact other people in that area. I know showing up to town halls was effective for the tea party. 
 
 - @meganrm
+
+### Browser Extension Delivering Daily Actions for Civil Disobedience and Action
+
+While individuals are browsing news sites and social media platforms, the browser extension glows to indicate that actions can be done to combat your unhappiness with what you're reading. The 4-6 acts can be switched out periodically on the back-end, but will generally be calling representatives and other Stay Woke tools, all available in the browser. Empower individuals to make the change they wish to see. #lazyActivisimUpgraded
+
+- @angiesaurus
