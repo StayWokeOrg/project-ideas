@@ -60,3 +60,19 @@ There is no easy way that I know of to lookup when your reps are going to hold a
 While individuals are browsing news sites and social media platforms, the browser extension glows to indicate that actions can be done to combat your unhappiness with what you're reading. The 4-6 acts can be switched out periodically on the back-end, but will generally be calling representatives and other Stay Woke tools, all available in the browser. Empower individuals to make the change they wish to see. #lazyActivisimUpgraded
 
 - @angiesaurus
+
+## Productivity
+
+### Notion
+
+Notion is a project management and note-taking software platform designed to help members of companies or organizations coordinate deadlines, objectives, and assignments for greater efficiency and productivity.
+
+Adding guest to the productivity hub ease the delegation of task for open source collaboration.
+
+### Transform the Notion Hub into Website
+
+Ontop of utilizing Notion as a workspace for your notes, docs and tasks — now people can use it for public website, blog, or wiki. User can instantly published their Notion Page under a custom domain. Visit https://hostnotion.co/ for more info.
+
+- @pizofreude
+
+
